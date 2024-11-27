@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^5.0.0
+  
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +19,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - asset/elecycle.png
+    - asset/helmet.png
+    - asset/mikkel-bech.png
+    - asset/robert.png
+    - asset/Road.png
+    - asset/Mountain.png
+    - asset/helmet-icon.png
+    - asset/bicycle.png

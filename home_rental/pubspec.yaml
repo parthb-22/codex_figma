@@ -1,0 +1,35 @@
+name: home_rental
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^5.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/notify.png
+    - images/search.png
+    - images/IC_Filter.png
+    - images/cat.png
+    - images/digital.png
+    - images/jason.png
+    - images/jorge.png
+    - images/ksenia.png
+    - images/side.png
+    - images/webaliser.png
+    - images/1.png
+    - images/IC_Bath.png
+    - images/IC_Bed.png
